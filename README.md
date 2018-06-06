@@ -1,6 +1,6 @@
-# some
+# Chain Saw
 
-An archive of any tool in the chain to published matter.
+An archive of any tool seen in the chain to published matter.
 
 > This list includes all projects from the ExtendScript [Awesome list](https://github.com/ExtendScript/awesome). If the project is not in an awesome state, or not ExtendScript, a pull request here is welcomed.
 
