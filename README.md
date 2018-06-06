@@ -1,13 +1,16 @@
-# awesome
-A curated list of awesome ExtendScript resources
+# some
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+An archive of any tool in the chain to published matter.
 
+> This list includes all projects from the ExtendScript [Awesome list](https://github.com/ExtendScript/awesome). If the project is not in an awesome state, or not ExtendScript, a pull request here is welcomed.
 
-W.I.P.  
+## ExtendScript  
 
-This list should comply to these guidlines --> [sindresorhus/awesome/create-list.md](https://github.com/sindresorhus/awesome/blob/master/create-list.md)
+- [extendscript-library](https://github.com/Images3SA/extendscript-library) by [Images3](https://github.com/Images3SA) Modules to support people who'd like write automation scripts for Adobe Creative Suite
 
+- [Reversing JSXBIN File Type](https://www.scip.ch/en/?labs.20140515) A extended article about the .jsxbin format and how to reverse engineering it   
+
+- [fakestk by nbqx](https://github.com/nbqx/fakestk): A CLI/CUI Adobe ExtendScript runner. It accepts a script file or stdin. (currently osx only)
 
 ### Photoshop
 
@@ -21,14 +24,15 @@ This list should comply to these guidlines --> [sindresorhus/awesome/create-list
 
 ### InDesign  
 
+- [ID-Map](https://github.com/fabianmoronzirfas/IDMap) Creating Maps with InDesign
+
 ### After Effects
 
 - [Facebook Keyframes After Effects Scripts by @SubtleGradient](https://github.com/facebookincubator/Keyframes/tree/ca8a7ba/scripts) Export an After Effects document to JSON and then convert that JSON to other kinds of JSON. Has [some useful library code and utilities](https://github.com/facebookincubator/Keyframes/tree/ca8a7ba/scripts/(lib)/MudBrickLayer/ExtendScript/common) also.
 
-### ExtendScript  
+## Node
 
-- [extendscript-library](https://github.com/Images3SA/extendscript-library) by [Images3](https://github.com/Images3SA) Modules to support people who'd like write automation scripts for Adobe Creative Suite
+## Python
 
-- [﻿Reversing JSXBIN File Type](https://www.scip.ch/en/?labs.20140515) A extended article about the .jsxbin format and how to reverse engineering it   
+## Bash
 
-- [fakestk by nbqx](https://github.com/nbqx/fakestk): A CLI/CUI Adobe ExtendScript runner. It accepts a script file or stdin. (currently osx only)
